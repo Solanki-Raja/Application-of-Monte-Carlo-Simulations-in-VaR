@@ -9,9 +9,8 @@ to transform it for improved stationarity and carrying out monte carlo simulatio
 for monitoring price movement when observing our value at risk (VaR).
 
 ## Project Slides
-Here is a link to my presentation covering an overview of the project:
+[Click here](https://github.com/Solanki-Raja/Application-of-Monte-Carlo-Simulations-in-VaR/blob/main/VaR%20Monte%20Carlo%20Slides.pdf) to view my presentation covering an overview of the project:
 
-https://github.com/jameshopham/Application-of-Monte-Carlo-Simulations-in-VaR/blob/main/VaR%20Monte%20Carlo%20Slides.pdf
 
 ### Built With
 
@@ -30,13 +29,15 @@ If you have any questions or suggestions, feel free to reach out to us:
 
 - Connect with us on LinkedIn:
 
-
-
-    <img src="./images/1706388570200.jpeg" alt="James Hopham">
+<div style="display: flex; align-items: center; gap: 20px;">
+    <div style="text-align: center;">
+        <img src="./images/1718304683335.jpeg" alt="Raja Solanki" style="border-radius: 50%; width: 150px;">
+        <br>
+        <a href="https://www.linkedin.com/in/solankiraja/" target="_blank">Raja Solanki</a>
+    </div>
+<div style="text-align: center;">
+    <img src="./images/1706388570200.jpeg" alt="James Hopham" style="border-radius: 50%; width: 150px;">
     <br>
     <a href="https://www.linkedin.com/in/james-hopham-2440352a5/" target="_blank">James Hopham</a>
-    <div>
-    <img src="./images/1718304683335.jpeg" alt="Raja Solanki">
-    <br>
-    <a href="https://www.linkedin.com/in/solankiraja/" target="_blank">Raja Solanki</a>
-  </div>
+</div>
+
